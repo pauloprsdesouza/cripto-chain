@@ -1,0 +1,12 @@
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/bin/Debug/netstandard2.1/Cripto.Chain.DataAccess.deps.json
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/bin/Debug/netstandard2.1/Cripto.Chain.DataAccess.dll
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/bin/Debug/netstandard2.1/Cripto.Chain.DataAccess.pdb
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/bin/Debug/netstandard2.1/Cripto.Chain.Domain.dll
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/bin/Debug/netstandard2.1/Cripto.Chain.Domain.pdb
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.csprojAssemblyReference.cache
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.AssemblyInfoInputs.cache
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.AssemblyInfo.cs
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.csproj.CoreCompileInputs.cache
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.csproj.CopyComplete
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.dll
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.DataAccess/obj/Debug/netstandard2.1/Cripto.Chain.DataAccess.pdb

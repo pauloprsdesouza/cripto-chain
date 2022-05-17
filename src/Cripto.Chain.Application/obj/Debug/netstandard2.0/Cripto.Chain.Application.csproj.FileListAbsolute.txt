@@ -1,0 +1,12 @@
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/bin/Debug/netstandard2.0/Cripto.Chain.Application.deps.json
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/bin/Debug/netstandard2.0/Cripto.Chain.Application.dll
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/bin/Debug/netstandard2.0/Cripto.Chain.Application.pdb
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/bin/Debug/netstandard2.0/Cripto.Chain.Domain.dll
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/bin/Debug/netstandard2.0/Cripto.Chain.Domain.pdb
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.csprojAssemblyReference.cache
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.AssemblyInfoInputs.cache
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.AssemblyInfo.cs
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.csproj.CoreCompileInputs.cache
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.csproj.CopyComplete
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.dll
+/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Application/obj/Debug/netstandard2.0/Cripto.Chain.Application.pdb
