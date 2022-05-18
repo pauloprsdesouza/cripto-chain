@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Tests/Cripto.Chain.Tests.csproj": {}
+    "D:\\Projects\\cripto-chain\\src\\Cripto.Chain.Tests\\Cripto.Chain.Tests.csproj": {}
   },
   "projects": {
-    "/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Tests/Cripto.Chain.Tests.csproj": {
+    "D:\\Projects\\cripto-chain\\src\\Cripto.Chain.Tests\\Cripto.Chain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Tests/Cripto.Chain.Tests.csproj",
+        "projectUniqueName": "D:\\Projects\\cripto-chain\\src\\Cripto.Chain.Tests\\Cripto.Chain.Tests.csproj",
         "projectName": "Cripto.Chain.Tests",
-        "projectPath": "/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Tests/Cripto.Chain.Tests.csproj",
-        "packagesPath": "/Users/pauloroberto/.nuget/packages/",
-        "outputPath": "/Users/pauloroberto/Documents/Projects/cripto-chain/src/Cripto.Chain.Tests/obj/",
+        "projectPath": "D:\\Projects\\cripto-chain\\src\\Cripto.Chain.Tests\\Cripto.Chain.Tests.csproj",
+        "packagesPath": "C:\\Users\\Paulo Roberto\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\cripto-chain\\src\\Cripto.Chain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pauloroberto/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Paulo Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/3.1.415/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
