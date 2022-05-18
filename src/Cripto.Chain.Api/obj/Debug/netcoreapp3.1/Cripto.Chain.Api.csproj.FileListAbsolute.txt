@@ -105,3 +105,7 @@ D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\EasyNetQ.d
 D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\Cripto.Chain.Events.dll
+D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\Cripto.Chain.Events.pdb
+D:\Projects\cripto-chain\src\Cripto.Chain.Api\bin\Debug\netcoreapp3.1\Cripto.Chain.Api.xml
+D:\Projects\cripto-chain\src\Cripto.Chain.Api\obj\Debug\netcoreapp3.1\Cripto.Chain.Api.xml

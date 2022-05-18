@@ -17,13 +17,14 @@
     "optimize": false,
     "keyFile": "",
     "emitEntryPoint": true,
-    "xmlDoc": false,
+    "xmlDoc": true,
     "debugType": "portable"
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Cripto.Chain.Api/1.0.0": {
         "dependencies": {
+          "Cripto.Chain.Events": "1.0.0",
           "EasyNetQ": "6.3.1",
           "Microsoft.EntityFrameworkCore": "3.1.25",
           "Microsoft.EntityFrameworkCore.Design": "3.1.25",
@@ -728,6 +729,17 @@
         },
         "compile": {
           "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
+        }
+      },
+      "Cripto.Chain.Events/1.0.0": {
+        "dependencies": {
+          "EasyNetQ": "6.3.1"
+        },
+        "runtime": {
+          "Cripto.Chain.Events.dll": {}
+        },
+        "compile": {
+          "Cripto.Chain.Events.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2611,6 +2623,11 @@
       "sha512": "sha512-6akRtHK/wab3246t4p5v3HQrtQk8LboOt5T4dtpNgsp3zvDeM4/Gx8V12t0h+c/W9/enUrilk8n6EQqdQorZAA==",
       "path": "system.threading.channels/4.7.1",
       "hashPath": "system.threading.channels.4.7.1.nupkg.sha512"
+    },
+    "Cripto.Chain.Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

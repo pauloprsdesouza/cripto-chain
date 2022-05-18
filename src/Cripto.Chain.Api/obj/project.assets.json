@@ -436,6 +436,19 @@
         "runtime": {
           "lib/netcoreapp3.0/System.Threading.Channels.dll": {}
         }
+      },
+      "Cripto.Chain.Events/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "EasyNetQ": "6.3.1"
+        },
+        "compile": {
+          "bin/placeholder/Cripto.Chain.Events.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cripto.Chain.Events.dll": {}
+        }
       }
     }
   },
@@ -1294,10 +1307,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Cripto.Chain.Events/1.0.0": {
+      "type": "project",
+      "path": "../../../Cripto.Chain.Events/Cripto.Chain.Events.csproj",
+      "msbuildProject": "../../../Cripto.Chain.Events/Cripto.Chain.Events.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Cripto.Chain.Events >= 1.0.0",
       "EasyNetQ >= 6.3.1",
       "Microsoft.EntityFrameworkCore >= 3.1.25",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.25",
@@ -1330,7 +1349,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\Cripto.Chain.Events\\Cripto.Chain.Events.csproj": {
+              "projectPath": "D:\\Projects\\Cripto.Chain.Events\\Cripto.Chain.Events.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
